@@ -1,10 +1,6 @@
 # notes-maker
 
-
 This is a simple Notes Maker App built with React. It allows users to add and delete notes.
-
-##description
-Certainly! Here's a description you can use for your project:
 
 ## Project Description
 
